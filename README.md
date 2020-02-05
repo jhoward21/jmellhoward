@@ -1,25 +1,34 @@
-# Savvy Coders Project Boilerplate Starter Kit
+#Jermell's stuff
 
-## Overview
+##My stuff
 
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+###Even More Stuff
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+Just some normal text.
 
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
+**Warning!!**
 
-## Get Started
+**_DO NOT PROCEED_**
 
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-97de62a546f943fbbc7a246b4785a343)
+~~Bad Zone.~~
 
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
+-Jump
 
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to get all of the goodies. If you see any _errors_ (warnings are 🙆🏾‍♂️) on Windows, you may have to do `npm install`.
+-Roll
 
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom right of your screen). You should install these. 👍🏾
+-Run
 
-Update this README and make any other initial changes or 🌱 files, etc. Go ahead and do your usual `git` steps, etc. etc. etc.
+1. Juice
+2. Cookies
+3. Grapes
+    1. Apple
+    2. Orange
 
-**Note:** This is a template repository, no need to 'fork it.
+4. Books
+
+[![Tiger](https://c402277.ssl.cf1.rackcdn.com/photos/18134/images/hero_small/Medium_WW226365.jpg?1574452099)
+](https://c402277.ssl.cf1.rackcdn.com/photos/18134/images/hero_small/Medium_WW226365.jpg?1574452099)
+
+
+
+---
