@@ -1,17 +1,19 @@
+const x = 50;
+const y = 37;
+
+const z = true;
+
+console.log(y > x);
+
 const me = {
-  age: 19,
-  name: "Jermell",
-  occ: "dev"
+  name: "Jermell"
 };
 
-console.log(me.age);
+// Objects are compared by reference
+const someone = {
+  name: "Jermell"
+};
 
-console.log(me["age"]);
+console.log(me === someone);
 
-let keyINeed = "age";
-
-console.log(me.keyINeed);
-
-//I must use BRACKET NOTATION if I need to use a VARIABLE for my key.
-console.log(me[keyINeed]);
-console.log(me.keyINeed);
+console.log(me.name === someone.name);
